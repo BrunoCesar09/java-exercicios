@@ -17,6 +17,6 @@ Estou estudando diariamente para construir uma base sólida em programação e c
 
 ## Organização
 
-Cada pasta corresponde a um dia de estudos e contém os exercícios resolvidos naquele dia.
+Cada pasta corresponde a um assunto de estudos e contém os exercícios resolvidos daquele tema.
 
 Este repositório será atualizado constantemente conforme avanço nos estudos.
